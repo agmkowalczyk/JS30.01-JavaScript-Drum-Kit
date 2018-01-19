@@ -1,7 +1,7 @@
 # JS30.01: JavaScript Drum Kit
 
 ## Description
-When you hit the corresponding key on your keyboard then it plays a sound and it shows a short an animation.
+When you hit the corresponding key on your keyboard then it plays a sound and it shows a short animation.
 
 ## Live Preview
 [Click here](http://www.agm.website/projects/js-drum-kit/index.html)
